@@ -3,3 +3,8 @@ This is Basic Smart contract using ERC721, it can mint to another address and is
 
 Here is the Link to an article that explains the project from start to finish
 https://luxorcode.hashnode.dev/how-to-write-a-basic-nft-smart-contract-and-deploy-to-polygon-network
+
+# Contributions
+
+All contribuations are welcome! Feel free to open a PR or an issue.
+
